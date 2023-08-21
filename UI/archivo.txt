@@ -1,0 +1,3 @@
+ Estudiante : {'_cedula': None, '_nombre': '', '_apellido': '', '_email': None, '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 1, '_nivel': 1}
+ Estudiante : {'_cedula': None, '_nombre': 'gregorio', '_apellido': '', '_email': None, '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 2, '_nivel': 1}
+ Estudiante : {'_cedula': None, '_nombre': '', '_apellido': '', '_email': None, '_telefono': None, '_direccion': None, '_numero_libros': 0, '_activo': True, '_carrera': None, '_id': 3, '_nivel': 1}
